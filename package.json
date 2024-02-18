@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is namaste react by Rishika",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/rishikapandey23/React.git)"
+  },
+  "keywords": [],
+  "author": "Rishika Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "parcel": "^2.11.0"
+  }
+}
